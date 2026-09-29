@@ -3,4 +3,4 @@
   * [Quy trình xử lý sự cố](quy-trinh-su-co.md)
   * [Biểu mẫu tiếp nhận](bieu-mau.md)
 * **Liên Hệ**
-  * [Thông tin hỗ trợ: 0905335116](lien-he.md)
+   * [Thông tin hỗ trợ](lien-he.md)
